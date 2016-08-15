@@ -47,8 +47,9 @@ print EX_GRAPH2
 
 num_nodes= int(raw_input().strip())
 
-for i in range():
-print n
+for i in range(n):
+    if n<=0:
+        	result_graph={}
+    else:
+        result_graph=
 
-if n<=0:
-	result_graph={}
